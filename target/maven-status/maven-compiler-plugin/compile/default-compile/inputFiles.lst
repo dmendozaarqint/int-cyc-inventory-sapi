@@ -1,0 +1,17 @@
+/home/darius/Proyectos/Seidor/Desarrollo/int-cyc-inventory-sapi/src/main/java/io/swagger/api/NotFoundException.java
+/home/darius/Proyectos/Seidor/Desarrollo/int-cyc-inventory-sapi/src/main/java/io/swagger/configuration/LocalDateConverter.java
+/home/darius/Proyectos/Seidor/Desarrollo/int-cyc-inventory-sapi/src/main/java/io/swagger/RFC3339DateFormat.java
+/home/darius/Proyectos/Seidor/Desarrollo/int-cyc-inventory-sapi/src/main/java/io/swagger/api/ApiException.java
+/home/darius/Proyectos/Seidor/Desarrollo/int-cyc-inventory-sapi/src/main/java/io/swagger/configuration/JacksonConfiguration.java
+/home/darius/Proyectos/Seidor/Desarrollo/int-cyc-inventory-sapi/src/main/java/io/swagger/configuration/CustomInstantDeserializer.java
+/home/darius/Proyectos/Seidor/Desarrollo/int-cyc-inventory-sapi/src/main/java/io/swagger/model/InventoryItem.java
+/home/darius/Proyectos/Seidor/Desarrollo/int-cyc-inventory-sapi/src/main/java/io/swagger/api/InventoryApiController.java
+/home/darius/Proyectos/Seidor/Desarrollo/int-cyc-inventory-sapi/src/main/java/io/swagger/model/Manufacturer.java
+/home/darius/Proyectos/Seidor/Desarrollo/int-cyc-inventory-sapi/src/main/java/io/swagger/Swagger2SpringBoot.java
+/home/darius/Proyectos/Seidor/Desarrollo/int-cyc-inventory-sapi/src/main/java/io/swagger/configuration/LocalDateTimeConverter.java
+/home/darius/Proyectos/Seidor/Desarrollo/int-cyc-inventory-sapi/src/main/java/io/swagger/api/ApiOriginFilter.java
+/home/darius/Proyectos/Seidor/Desarrollo/int-cyc-inventory-sapi/src/main/java/io/swagger/api/ApiResponseMessage.java
+/home/darius/Proyectos/Seidor/Desarrollo/int-cyc-inventory-sapi/src/main/java/io/swagger/configuration/HomeController.java
+/home/darius/Proyectos/Seidor/Desarrollo/int-cyc-inventory-sapi/src/main/java/io/swagger/configuration/SwaggerUiConfiguration.java
+/home/darius/Proyectos/Seidor/Desarrollo/int-cyc-inventory-sapi/src/main/java/io/swagger/configuration/SwaggerDocumentationConfig.java
+/home/darius/Proyectos/Seidor/Desarrollo/int-cyc-inventory-sapi/src/main/java/io/swagger/api/InventoryApi.java
